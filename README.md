@@ -39,11 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![]
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
-
+![]![ezgif com-gif-maker](https://user-images.githubusercontent.com/84619354/164814887-0fd37029-6052-49d1-a061-128b8a209cd7.gif)
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 MDN web docs to read more about functions like Math.random and Math.floor to in order to return random integers.
@@ -60,13 +56,16 @@ web page and updating it accordingly for the user. I remembered to use template 
 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-
+How does this project translate to the day-to-day work of a web developer? This project mainly had to do with 
+front-end work by implementing a web page with responsive components and a UI, but where does the role of back-end developement
+come into play? Where do databases come into play? How often do developers use pure Javascript and HTML instead of 
+frameworks/libraries such as React.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-I would refractor the entire project in React. I would make each button a component so that we can initialize the game 
-with as many buttons as we want as well as any set of frequencies. I would have different options for sounds such as
+I would refractor the entire project in React to make the code more robust, compact, and reusable. I would make each button a component so that we can initialize the game with as many buttons as we want as well as any set of frequencies. I would have different options for sounds such as
 different instruments. I would also set up a clock timer to increase the difficulty of the game by limiting the time for 
-the player's response.
+the player's response. Finally, I would make the game replay the current sequence of frequencies after the player makes a mistake.
+
 
 
 ## Interview Recording URL Link
