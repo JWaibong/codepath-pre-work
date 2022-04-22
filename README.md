@@ -6,7 +6,7 @@ Submitted by: Jonathan Ng
 
 Time spent: **2** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/carpal-pool-inspiration
 
 ## Required Functionality
 
@@ -70,7 +70,7 @@ the player's response. Finally, I would make the game replay the current sequenc
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording] https://youtu.be/2cAOAxPrK8E
 
 
 ## License
